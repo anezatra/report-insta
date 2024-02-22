@@ -1,6 +1,6 @@
 # Report Insta (Beta) v1.0 ☠️
 ![banner image](https://github.com/anezatra/report-insta/blob/main/banner.jpg)
-## What is a Report Insta?
+## What is a Report Insta ?
 **Report-Insta is a tool that allows the Community Rules complaint form that Instagram offers to users to be automatically sent many times. As in the normal form, you must fill in the required fields according to the target person.**
 ## Use of program 💻
 **Usage of the program is as follows:**
